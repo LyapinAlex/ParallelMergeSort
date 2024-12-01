@@ -5,6 +5,7 @@
 1. Клонирование репозитория
     ```bash
    git clone https://github.com/LyapinAlex/ParallelMergeSort.git
+     ```
 2. Открываем Visual Studio
 3. Настрйока OpenMP
     1. Перейдите в свойства проекта:
@@ -13,4 +14,8 @@
     2. Для всех конфигураций (**Debug**, **Release**) и платформ включите поддержку OpenMP:
    - Перейдите в `Project → Properties → C/C++ → Language → OpenMP Support` и установите значение `Yes`.
 5. Сборка проекта
-     Нажмите Ctrl+Shift+B или выберите Build → Build Solution.
+     Нажмите `Ctrl+Shift+B` или выберите `Build → Build Solution`.
+6. Переходим в папку с скомпилированой программой
+   ```bash
+   cd x64\Debug
+     ```
