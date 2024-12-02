@@ -19,3 +19,7 @@
    ```bash
    cd x64\Realease
      ```
+# Параметры запуска
+# Численные результаты
+![PMSTable](https://github.com/user-attachments/assets/23bb81a7-37df-41ad-8ef6-b78a9f9df359)
+![PMSFigure](https://github.com/user-attachments/assets/4aa855f9-9c61-483c-87f1-19c7227dfccb)
