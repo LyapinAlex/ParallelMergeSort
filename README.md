@@ -17,5 +17,5 @@
      Нажмите `Ctrl+Shift+B` или выберите `Build → Build Solution`.
 6. Переходим в папку с скомпилированой программой
    ```bash
-   cd x64\Debug
+   cd x64\Realease
      ```
